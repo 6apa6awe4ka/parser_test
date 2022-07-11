@@ -1,0 +1,5 @@
+{
+    "require": {
+        "kassner/log-parser": "~2.0"
+    }
+}
