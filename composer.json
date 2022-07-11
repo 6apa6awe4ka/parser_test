@@ -1,5 +1,6 @@
 {
     "require": {
-        "kassner/log-parser": "~2.0"
+        "kassner/log-parser": "~2.0",
+        "php-ds/php-ds": "^1.4"
     }
 }
